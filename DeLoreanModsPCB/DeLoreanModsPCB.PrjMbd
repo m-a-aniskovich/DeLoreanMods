@@ -99,6 +99,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=HYBPARVX
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for DeLoreanModsPCB\Design Rule Check - Tree.html
+DItemRevisionGUID=
+
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
