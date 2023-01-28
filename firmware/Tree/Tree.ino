@@ -1,4 +1,4 @@
-#include "HT16K33.h"
+#include "src/HT16K33.h"
 
 #define MATRIX_ADDRESS 0x70
 #define BRIGHTNESS 5
