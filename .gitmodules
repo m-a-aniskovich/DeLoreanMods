@@ -1,0 +1,3 @@
+[submodule "ht16k33-arduino"]
+	path = firmware/Tree/src
+	url = https://github.com/m-a-aniskovich/ht16k33-arduino.git
