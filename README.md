@@ -7,7 +7,7 @@ This repository contains the PCB designs and firmware for a modification to the 
 - **gerbers**: Contains the gerber files for the PCB, which can be used for manufacturing the board
 
 ## Getting Started
-For ATTiny85 you will need [https://github.com/SpenceKonde/ATTinyCore](AttinyCore library) and for ATTiny13A - [https://github.com/MCUdude/MicroCore](MicroCore library). 
+For ATTiny85 you will need [AttinyCore library](https://github.com/SpenceKonde/ATTinyCore) and for ATTiny13A - [MicroCore library](https://github.com/MCUdude/MicroCore). 
 1. Clone the repository to your local machine
 2. Open the gerbers folder, send the gerbers to PCB Manufacturer to get the PCB manufactured.
 3. Open the firmware folder and upload the sketch to your board. 
